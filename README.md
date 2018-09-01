@@ -2,6 +2,15 @@
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
 
+> This is the first project of the Machine Learning Engineer Nanodegree from Udacity.  
+> The main parts of the project are
+> * Explore the data and make your observations using the statistics
+> * Implement and prepare a model for the machine learning part
+> * Analyse and interpret your model performance
+> * Evaluate model performance
+> 
+> The interpretations of the tasks are written inside the jupyter notebook.
+
 ### Install
 
 This project requires **Python** and the following Python libraries installed:
