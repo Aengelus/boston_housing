@@ -1,5 +1,4 @@
-.DS_Store
 Term_2/dog-project/dogImages/*
-Term_2/dog-project/lfw/*
-Term_2/dog-project/.ipynb_checkpoints/*
+Term_2/dog-project/lfw/
+Term_2/dog-project/.ipynb_checkpoints/
 Term_2/lfw.7z
